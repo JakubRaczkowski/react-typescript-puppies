@@ -1,0 +1,34 @@
+{
+  "puppies": [
+    {
+      "id": 6,
+      "name": "Doggo6",
+      "breed": "Doberman",
+      "birthDate": "2018-07-20"
+    },
+    {
+      "id": 7,
+      "name": "Doggo7",
+      "breed": "Chihuahua",
+      "birthDate": "2021-05-16"
+    },
+    {
+      "id": 8,
+      "name": "Doggo7",
+      "breed": "Chow",
+      "birthDate": "2020-09-30"
+    },
+    {
+      "id": 9,
+      "name": "Doggo8",
+      "breed": "Weimaraner",
+      "birthDate": "2018-12-12"
+    },
+    {
+      "id": 10,
+      "name": "Bob",
+      "breed": "Boxer",
+      "birthDate": "2020-11-29"
+    }
+  ]
+}
